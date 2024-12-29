@@ -1,0 +1,14 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.eael-simple-menu-container.preset-1 .eael-simple-menu li>a {
+    color: red;
+}
+
+ul {
+    background-color: red !important;
+}
+
+/* End of comment */ 
+
+</style>
+<!-- end Simple Custom CSS and JS -->
